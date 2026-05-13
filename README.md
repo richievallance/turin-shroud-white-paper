@@ -1,70 +1,45 @@
-![Turin Shroud White Paper](assets/covers/turin_shroud_white_paper_cover_v1.svg)
-
 # Turin Shroud White Paper
+## Reserved for Future Publication
 
-## Publication Branch — Reserved for Future Controlled-Hypothesis Document
-
-**Author:** Richard Steven Vallance (Da Valenca)
-**Parent Ecosystem:** [da-vinci-ultimatium](https://github.com/richievallance/da-vinci-ultimatium)
-**Experimental Substrate:** [figura-ultima](https://github.com/richievallance/figura-ultima)
-**Constitutional Classification:** Publication Branch
-**Publication Status:** 🔴 Not Yet Publication-Ready — Rebuild Required
-**DOI Status:** No DOI. No release. Do not cite.
+**Richard Steven Vallance (Da Valenca)** | Da Valenca Leonardo Project | United Kingdom  
+© 2026 Richard Steven Vallance — All Intellectual Property Reserved
 
 ---
 
-## ⚠ Current Repository Status
+## Status: RESERVED — Not Published, No DOI
 
-This repository **is not yet a publication**. It currently contains 23 raw experimental Mechanism chapter files (A–Y) that were deposited here incorrectly during an earlier phase. These files have been relocated to [figura-ultima/experimental_mechanisms/](https://github.com/richievallance/figura-ultima/tree/main/experimental_mechanisms) where they properly belong.
+This repository is reserved for a future unified controlled-hypothesis publication on the Turin Shroud question.
 
-**This repository must be rebuilt from scratch** before it constitutes a valid publication-branch white paper.
+**The publication paper must be rebuilt from scratch** by selecting the strongest, most disciplined elements from the Figura Ultima thesis (`figura-ultima` repository) and subjecting them to formal adversarial review before any release.
 
----
-
-## What This Repository Is For
-
-This repository is reserved for a future **unified, controlled-hypothesis publication** on the Shroud question. When complete, it will contain:
-
-- A single coherent white paper (not scattered chapter fragments)
-- Controlled hypotheses only — no speculative material
-- Full constitutional evidence classification (TYPE A/B only)
-- Adversarial review notice
-- Proper CITATION.cff, LICENSE, metadata.json, and zenodo.json
-- DOI upon formal release
+**Current content in this repository is deprecated.** Any Mechanism files previously staged here have been relocated to `figura-ultima/experimental_mechanisms/` where they belong.
 
 ---
 
-## Source Material
+## What This Paper Will Contain (Future)
 
-The publication will draw from selected sections of the [figura-ultima](https://github.com/richievallance/figura-ultima) full thesis. Sections appropriate for controlled publication:
+The unified white paper, when ready, will draw from these sections of the full Figura Ultima thesis:
 
-| Section | Content | Evidence Type |
-|---|---|---|
-| Chapter 1 (adapted) | Core hypothesis — stated as working hypothesis | TYPE C |
-| Chapter 6 | 7.1 scalar ratio mathematical argument | TYPE B |
-| Chapter 7 | Second layer — blood evidence, STURP citations | TYPE B |
-| Chapter 10 | DNA falsifiability pathway | TYPE C |
-| Chapter 12 | Counterarguments and scholarly responses | TYPE B |
+- Chapter 1: Core Hypothesis (stated as working hypothesis, not proven claim)
+- Chapter 6: The 7.1 Scalar Ratio (mathematical argument only)
+- Chapter 7: The Second Layer (blood evidence, STURP citations)
+- Chapter 10: The DNA Endgame (falsifiability framework)
+- Chapter 12: Counterarguments and Scholarly Responses (essential)
 
-Sections remaining in figura-ultima only (too speculative for publication branch):
-- Chapter 3 — Fraud Question / Theological Position
-- Chapter 9 — Exile, East, Provenance Chain
-- Chapter 11 — Figura Ultima (most assertive chapter)
+The following sections will remain in `figura-ultima` as experimental content and will NOT be included in the controlled publication:
 
----
-
-## Build Schedule
-
-This publication has not been scheduled for release. It will be built when:
-
-1. The figura-ultima full thesis passes adversarial review
-2. A controlled-hypothesis structure is formally approved
-3. The 7.1 scalar ratio is independently verified
-4. The photothermal mechanism hypothesis is formally reviewed
+- Chapter 3 (Fraud Question / Theological Position)
+- Chapter 9 (Exile, the East, and the Provenance Chain)
+- Chapter 11 (Figura Ultima — the most assertive claims)
 
 ---
 
-## Legal Notice
+## Do Not
 
-© 2026 Richard Steven Vallance. All Intellectual Property and Copyright Reserved.
-*Da Valenca — Leonardo Project, United Kingdom*
+- Do not create a DOI for this repository
+- Do not treat any content here as publication-ready
+- Do not deposit any sensitive, autobiographical, or court-related material here
+
+---
+
+© 2026 Richard Steven Vallance. All intellectual property reserved.
