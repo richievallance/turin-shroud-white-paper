@@ -1,0 +1,18 @@
+<svg width="100%" viewBox="0 0 680 420" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Turin Shroud White Paper</title>
+<rect width="680" height="420" fill="#F0EAD6"/>
+<rect x="0" y="0" width="680" height="28" fill="#3D2B08" opacity="0.7"/>
+<text x="340" y="19" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#C8A84B" letter-spacing="2">PUBLICATION BRANCH - UNDER ADVERSARIAL REVIEW</text>
+<ellipse cx="340" cy="230" rx="60" ry="80" fill="none" stroke="#8B6914" stroke-width="0.6" opacity="0.25"/>
+<line x1="220" y1="210" x2="460" y2="210" stroke="#8B6914" stroke-width="0.5" opacity="0.35" stroke-dasharray="4 3"/>
+<line x1="220" y1="250" x2="460" y2="250" stroke="#8B6914" stroke-width="0.5" opacity="0.35" stroke-dasharray="4 3"/>
+<text x="470" y="232" font-family="Georgia, serif" font-size="9" fill="#7A5C14" opacity="0.6">7.1x</text>
+<text x="340" y="72" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#5C3D10" letter-spacing="2">TURIN SHROUD</text>
+<text x="340" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-weight="bold" fill="#2D1E06" letter-spacing="1">WHITE PAPER</text>
+<line x1="240" y1="112" x2="440" y2="112" stroke="#9B7A20" stroke-width="0.7" opacity="0.5"/>
+<text x="340" y="134" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#5C3D10" font-style="italic">Figura Ultima Thesis - Working Hypothesis</text>
+<text x="340" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#7A5C14" font-style="italic">Leonardo da Vinci - c.1476-1478 - 7.1 scalar ratio</text>
+<text x="340" y="352" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#7A5C14" font-style="italic">Plaster relief - glass lightbox - Archimedes mirror flash</text>
+<text x="340" y="384" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#9B7A20">Richard Steven Vallance 2026 - TYPE B/C</text>
+<rect x="8" y="8" width="664" height="404" rx="2" fill="none" stroke="#8B6914" stroke-width="0.6" opacity="0.35"/>
+</svg>
