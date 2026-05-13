@@ -1,45 +1,70 @@
-![Turin Shroud White Paper — Publication Branch](assets/covers/turin_shroud_white_paper_cover_v1.svg)
+![Turin Shroud White Paper](assets/covers/turin_shroud_white_paper_cover_v1.svg)
 
 # Turin Shroud White Paper
 
-## Publication Branch — Figura Ultima Thesis
+## Publication Branch — Reserved for Future Controlled-Hypothesis Document
 
 **Author:** Richard Steven Vallance (Da Valenca)
 **Parent Ecosystem:** [da-vinci-ultimatium](https://github.com/richievallance/da-vinci-ultimatium)
-**Branches From:** [figura-ultima](https://github.com/richievallance/figura-ultima) (experimental substrate)
+**Experimental Substrate:** [figura-ultima](https://github.com/richievallance/figura-ultima)
 **Constitutional Classification:** Publication Branch
-**Publication Status:** 🟡 Under Adversarial Review
-**Evidence Types:** TYPE B / TYPE C
+**Publication Status:** 🔴 Not Yet Publication-Ready — Rebuild Required
+**DOI Status:** No DOI. No release. Do not cite.
 
 ---
 
-## Abstract
+## ⚠ Current Repository Status
 
-Working hypothesis: Leonardo da Vinci created the Turin Shroud c.1476–1478, using an inverted plaster relief, glass slide lightbox, and Archimedes concave mirror flash. Evidence presently suggests a 7.1 scalar ratio correspondence, a documented biographical gap, and a DNA falsifiability pathway.
+This repository **is not yet a publication**. It currently contains 23 raw experimental Mechanism chapter files (A–Y) that were deposited here incorrectly during an earlier phase. These files have been relocated to [figura-ultima/experimental_mechanisms/](https://github.com/richievallance/figura-ultima/tree/main/experimental_mechanisms) where they properly belong.
 
----
-
-## Constitutional References
-
-This white paper applies controlled hypotheses only. All speculative and experimental material remains in [figura-ultima](https://github.com/richievallance/figura-ultima). Claims herein are presented as working hypotheses requiring validation — not as established findings.
+**This repository must be rebuilt from scratch** before it constitutes a valid publication-branch white paper.
 
 ---
 
-## Evidential Limitations
+## What This Repository Is For
 
-- No direct documentary evidence links Leonardo to the Shroud's creation
-- Carbon dating evidence requires further contextual interpretation
-- Image formation mechanism remains under active scientific debate
-- DNA pathway hypothesis is falsifiable but untested
+This repository is reserved for a future **unified, controlled-hypothesis publication** on the Shroud question. When complete, it will contain:
+
+- A single coherent white paper (not scattered chapter fragments)
+- Controlled hypotheses only — no speculative material
+- Full constitutional evidence classification (TYPE A/B only)
+- Adversarial review notice
+- Proper CITATION.cff, LICENSE, metadata.json, and zenodo.json
+- DOI upon formal release
 
 ---
 
-## DOI
+## Source Material
 
-*Pending Zenodo registration.*
+The publication will draw from selected sections of the [figura-ultima](https://github.com/richievallance/figura-ultima) full thesis. Sections appropriate for controlled publication:
+
+| Section | Content | Evidence Type |
+|---|---|---|
+| Chapter 1 (adapted) | Core hypothesis — stated as working hypothesis | TYPE C |
+| Chapter 6 | 7.1 scalar ratio mathematical argument | TYPE B |
+| Chapter 7 | Second layer — blood evidence, STURP citations | TYPE B |
+| Chapter 10 | DNA falsifiability pathway | TYPE C |
+| Chapter 12 | Counterarguments and scholarly responses | TYPE B |
+
+Sections remaining in figura-ultima only (too speculative for publication branch):
+- Chapter 3 — Fraud Question / Theological Position
+- Chapter 9 — Exile, East, Provenance Chain
+- Chapter 11 — Figura Ultima (most assertive chapter)
+
+---
+
+## Build Schedule
+
+This publication has not been scheduled for release. It will be built when:
+
+1. The figura-ultima full thesis passes adversarial review
+2. A controlled-hypothesis structure is formally approved
+3. The 7.1 scalar ratio is independently verified
+4. The photothermal mechanism hypothesis is formally reviewed
 
 ---
 
 ## Legal Notice
 
 © 2026 Richard Steven Vallance. All Intellectual Property and Copyright Reserved.
+*Da Valenca — Leonardo Project, United Kingdom*
