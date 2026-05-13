@@ -1,3 +1,5 @@
+![Turin Shroud White Paper — Publication Branch](assets/covers/turin_shroud_white_paper_cover_v1.svg)
+
 # Turin Shroud White Paper
 
 ## Publication Branch — Figura Ultima Thesis
