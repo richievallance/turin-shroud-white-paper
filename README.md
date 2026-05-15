@@ -1,45 +1,55 @@
 # Turin Shroud White Paper
-## Reserved for Future Publication
+## ⚠️ PREDECESSOR ARCHIVE — Not a Current Publication
 
-**Richard Steven Vallance (Da Valenca)** | Da Valenca Leonardo Project | United Kingdom  
-© 2026 Richard Steven Vallance — All Intellectual Property Reserved
-
----
-
-## Status: RESERVED — Not Published, No DOI
-
-This repository is reserved for a future unified controlled-hypothesis publication on the Turin Shroud question.
-
-**The publication paper must be rebuilt from scratch** by selecting the strongest, most disciplined elements from the Figura Ultima thesis (`figura-ultima` repository) and subjecting them to formal adversarial review before any release.
-
-**Current content in this repository is deprecated.** Any Mechanism files previously staged here have been relocated to `figura-ultima/experimental_mechanisms/` where they belong.
+**Author:** Richard Steven Vallance (Da Valenca)  
+**Status:** 🔴 ARCHIVED — Predecessor draft. Not complete. Not for citation.  
+**Last Updated:** May 2026
 
 ---
 
-## What This Paper Will Contain (Future)
+## Archive Notice
 
-The unified white paper, when ready, will draw from these sections of the full Figura Ultima thesis:
+**This repository is a predecessor draft archive, not a current publication.**
 
-- Chapter 1: Core Hypothesis (stated as working hypothesis, not proven claim)
-- Chapter 6: The 7.1 Scalar Ratio (mathematical argument only)
-- Chapter 7: The Second Layer (blood evidence, STURP citations)
-- Chapter 10: The DNA Endgame (falsifiability framework)
-- Chapter 12: Counterarguments and Scholarly Responses (essential)
+The active and canonical Turin Shroud authorship thesis is held in:  
+👉 **[figura-ultima](https://github.com/richievallance/figura-ultima)**
 
-The following sections will remain in `figura-ultima` as experimental content and will NOT be included in the controlled publication:
-
-- Chapter 3 (Fraud Question / Theological Position)
-- Chapter 9 (Exile, the East, and the Provenance Chain)
-- Chapter 11 (Figura Ultima — the most assertive claims)
+This repository contains early mechanism drafts and chapter fragments produced during the research development phase. These files are preserved for provenance purposes only. They have been superseded by the full *Figura Ultima* thesis.
 
 ---
 
-## Do Not
+## Contents
 
-- Do not create a DOI for this repository
-- Do not treat any content here as publication-ready
-- Do not deposit any sensitive, autobiographical, or court-related material here
+This repository contains:
+
+- Early mechanism hypothesis drafts (Mechanisms A–Y) — these are **predecessor versions** of the experimental mechanisms now held in `figura-ultima/experimental_mechanisms/`
+- A preliminary Table of Contents
+- A partial Historical Problem Statement chapter (fragment)
+- A preliminary Title Page
+
+**None of these files constitute a complete or publishable paper.**  
+**Do not cite any file in this repository as a current claim.**
 
 ---
 
-© 2026 Richard Steven Vallance. All intellectual property reserved.
+## Future Use
+
+This repository is reserved for a future *controlled-hypothesis* unified Shroud white paper. That paper will be built from selected, reviewed elements of the *Figura Ultima* thesis after formal adversarial review is complete. It does not yet exist.
+
+---
+
+## Canonical Active Repository
+
+All current Turin Shroud research: **[figura-ultima](https://github.com/richievallance/figura-ultima)**
+
+---
+
+## DOI Status
+
+**No DOI assigned. No DOI planned for this repository.**
+
+---
+
+## Licence
+
+© 2026 Richard Steven Vallance. All Intellectual Property Reserved.
